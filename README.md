@@ -1,7 +1,7 @@
 # Quantum Natural Policy Gradients
 ## Towards Sample-Efficient Reinforcement Learning
 
-This is a Python toolbox that implements the methods described in ["Quantum Natural Policy Gradients: Towards Sample-Efficient Reinforcement Learning", Meyer et al., IEEE QCE 2:36-41 (2023)](https://arxiv.org/abs/2304.13571).
+This is a Python toolbox that implements the methods described in ["Quantum Natural Policy Gradients: Towards Sample-Efficient Reinforcement Learning", Meyer et al., IEEE QCE 2:36-41 (2023)](https://ieeexplore.ieee.org/abstract/document/10313784).
 
 **Note:** Accepted to the 1st International Workshop on Quantum Machine Learning: From Foundations to Applications (QML@QCE 2023), Bellevue, Washington, USA.
 
